@@ -1,4 +1,4 @@
-
+A ASP.NET web application to search for research papers that are openly accessible
 
 The screenshots of the project:
 

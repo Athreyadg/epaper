@@ -1,4 +1,4 @@
-**The e-Paper Website**<h1>
+**The e-Paper Website** <h1>
 
 A ASP.NET web application to search for research papers that are openly accessible<h3>
 
